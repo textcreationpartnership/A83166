@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament. For the calling of an assembly of learned, and godly divines: to be consulted with by the Parliament, for the setling of the government and lyturgy of the Church of England, and for vindicating and clearing the doctrine of the said church, from false aspersions and interpretations, as shall be most agreeable to the word of God. With the names of all the ministers and others appointed for the same. Die Lunæ, 12 Junii, 1643. Ordered by the Lords and Commons assembled in Parliament, that this ordinance bee forthwith printed and published. Iohn Browne Cler. Parliament.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83166</idno>
+            <idno type="STC">Wing E1952</idno>
+            <idno type="STC">Thomason E105_34</idno>
+            <idno type="STC">ESTC R2506</idno>
+            <idno type="EEBO-CITATION">99872079</idno>
+            <idno type="PROQUEST">99872079</idno>
+            <idno type="VID">155978</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83166)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155978)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E105[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament. For the calling of an assembly of learned, and godly divines: to be consulted with by the Parliament, for the setling of the government and lyturgy of the Church of England, and for vindicating and clearing the doctrine of the said church, from false aspersions and interpretations, as shall be most agreeable to the word of God. With the names of all the ministers and others appointed for the same. Die Lunæ, 12 Junii, 1643. Ordered by the Lords and Commons assembled in Parliament, that this ordinance bee forthwith printed and published. Iohn Browne Cler. Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>June 13. London, Printed for John Wright in the Old-Bailey,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This edition was later called in and a corrected version issued .. 17 June"--Lambert, S.  Printing for Parliament, 1641-1700, p.60.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Church of England --  Liturgy --  Early works to 1800.</term>
+               <term>Westminster Assembly (1643-1652)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155978:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <p>AN ORDINANCE Of the LORDS and COMMONS Aſſembled in PARLIAMENT.</p>
+            <p>For the calling of an Aſſembly of Learned, and Godly Divines: To be conſulted with by the Parliament, for the ſet<g ref="char:EOLhyphen"/>ling of the Government and Lyturgy of the Church of England, and for vindicating and clearing the Doctrine of the ſaid Church, from falſe Aſperſions and Interpre<g ref="char:EOLhyphen"/>tations, as ſhall be moſt agreeable to the Word of GOD.</p>
+            <p>With the Names of all the Miniſters and others appointed for the ſame.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Lunae, 12 Junii, 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords and Commons Aſsembled in Parliament, that this Ordinance bee forthwith Printed and Publiſhed,</p>
+                        <closer>
+                           <signed>Iohn Browne Cler. Parliament,</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>June 13. London, Printed for <hi>John Wright,</hi> in the Old-Bailey. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155978:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 32 -->
+            <pb n="1" facs="tcp:155978:2"/>
+            <!-- PDF PAGE 32 -->
+            <head>An Ordinance of the Lords and Commons in Parliament, for the calling of an Aſſembly of Learned and Godly Divines.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas amongſt the infinite bleſſings of Almighty God upon this Nation, none is, or can be more deare unto us then the purity of our Religion, and for that as yet many things remain in the Liturgy, Diſcipline, &amp; Go<g ref="char:EOLhyphen"/>vernment of the Church, which do neceſſarily require a further &amp; more perfect Reformation, then as yet hath bin attai<g ref="char:EOLhyphen"/>ned, and where it hath declared and reſolved by the Lords &amp; Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament, That the preſent Church-govern<g ref="char:EOLunhyphen"/>ment by Arch-biſhops, Biſhops, their Chancellors, Commiſſaries, Deanes, Deanes &amp; Chapters, Arch-deacons, &amp; Eccleſiaſtical Offi<g ref="char:EOLhyphen"/>cers depending upon the Hierarchy, is evill &amp; juſtly offenſive &amp; bur<g ref="char:EOLhyphen"/>thenſome to the Kingdom, a great impediment to Reformation and growth of Religion, &amp; very prejudiciall to the ſtate &amp; government o<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this Kingdome, and that therefore they are reſolved that the ſame ſhall be taken away, &amp; that ſuch a government ſhall be ſetled in the Church, as may be moſt agreeable to Gods holy Word, and moſt apt to procure and preſerve the peace of the Church at home, and neerer agreement with the Church of <hi>Scotland,</hi> and other re<g ref="char:EOLhyphen"/>formed Churches abroad, and for the better effecting hereof, and for the vindicating and clearing of the Doctrine of the Church of <hi>England</hi> from all falſe calumnies and aſperſions, it is thought fit and deceſſary to call an Aſſembly of Learned, Godly, and Iu<g ref="char:EOLhyphen"/>dicious Divines, to conſult and adviſe of ſuch matters and things touching the premiſſes as ſhall be propoſed unto them by both or either of the Houſes of the Houſes of Parliament, and to give their advice and counſell therein to both or either of the ſaid Hou<g ref="char:EOLhyphen"/>ſes, when, and as often as they ſhall be thereunto required. Be it therefore Ordained by the Lords and Commons in this preſent Parliament aſſembled, that all and every the perſons hereafter
+<pb n="2" facs="tcp:155978:3"/>
+               <!-- PDF PAGE 33 -->
+i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this preſent Ordinance named, That is to ſay, <hi>Algernon</hi> Earle of Northumberland, <hi>William</hi> Earle of Bedford, <hi>Phillip</hi> Earle of Pembroke and Montgomery, <hi>William</hi> Earle of Salisbury, <hi>Henry</hi> Earle of Holland, <hi>Edward</hi> Earle of Mancheſter, <hi>William</hi> Lord Viſcount Sea and Seale, <hi>Edward</hi> Lord Viſcount Conway, <hi>Phillip</hi> Lord Wharton, <hi>Edward</hi> Lord Howard of Eſtr. <hi>John Selden</hi> Eſquire, <hi>Francis Rows</hi> Eſquire, <hi>Edmund Prideaux</hi> Eſquire, Sir <hi>Henry Vane</hi> Knight ſenior, <hi>John Glyn</hi> Eſquire, Re<g ref="char:EOLhyphen"/>corder of London, <hi>John White</hi> Eſquire, <hi>Boulſtrode Whitlock</hi> Eſquire, <hi>Humphrey Salloway</hi> Eſquire, Maſter <hi>Serjeant Wild, Oliver S. John</hi> Eſquire, his Majeſties Soliciter, Sir <hi>Benjamin Ruddyard</hi> Knight, <hi>John Pym</hi> Eſquire, Sir <hi>John Clotworthy</hi> Knight, <hi>John Maynard</hi> Eſquire, Sir <hi>Henry Vane</hi> Knight junior, <hi>VVilliam Pierpoynt</hi> Eſquire, <hi>William Wheeler</hi> Eſquire, Sir <hi>Thomas Barrington</hi> Knight, Maſter <hi>Young</hi> Eſquire, Sir <hi>John Evelin</hi> Knight, <hi>Herbert Palmer</hi> of Aſhwell, Batchelor in Divinity, <hi>Oliver Boles</hi> of Sutton, Batchelor in Divinity, <hi>Henry Wilkin<g ref="char:EOLhyphen"/>ſon</hi> of Maddeſden, Batchelor in Divinity, <hi>Thomas Valentine</hi> of Chalfont Giles, Batchelor in Divinity, Doctor <hi>William Twiſt</hi> of Newbury. <hi>William Reynor</hi> of Egham, Maſter <hi>Hanniball Gam<g ref="char:EOLhyphen"/>mon</hi> of Maugan, Maſter <hi>Jaſper Hickes</hi> of Lawricke, Doctor <hi>Hoyle</hi> late of Dublin in Iceland <hi>William Bridges</hi> of Yarmouth. <hi>Thomas Wincop</hi> of Elleſworth Doctor in Divinity, <hi>Thomas Goodwyn</hi> of London, Batchelor in Divinity, <hi>John Ley</hi> of Bud<g ref="char:EOLhyphen"/>worth in Cheſhire, <hi>Thomas Caſe</hi> of London, <hi>John Pyne</hi> of Bere<g ref="char:EOLhyphen"/>ferrers, Maſter <hi>Whidden</hi> of Mooreton, Doctor <hi>Richard Love</hi> of Ekington, Doctor <hi>William Go<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge</hi> of Black Fryers London, Doc<g ref="char:EOLhyphen"/>tor <hi>Ralph Brownerigg,</hi> Biſhop of Exeter, Doctor <hi>Samuell Wa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</hi> Maſter of Sidney Colledge, <hi>John White</hi> of Dorcheſter, <hi>Edward Peale</hi> of Compton, <hi>Stephen Marſhall</hi> of Finchingfield, Batchelor of Divinity, <hi>Obediah Sedgewicke</hi> of Cogſhall, Batchelor in Divi<g ref="char:EOLhyphen"/>nity. Maſter <hi>Carter, Peter Clerke</hi> of Carnaby, <hi>William New</hi> of Eſtington, Batchelor in Divinity, <hi>Richard Capell</hi> of Pitchcombe, <hi>Theophilus Bathurſt</hi> of Overton Watervile, <hi>Phillip Nye</hi> of Kim<g ref="char:EOLhyphen"/>bolton, Doctor <hi>Brocket Smith</hi> of Barkway, Doctor <hi>Cornelius Bur<g ref="char:EOLhyphen"/>ges</hi> of Watford, <hi>John Greene</hi> of Pencombe, <hi>Stanley Gower</hi> of
+<pb n="3" facs="tcp:155978:3"/>
+               <!-- PDF PAGE 33 -->
+Brampton Bryan, <hi>Francis Taylor</hi> of Yalding, <hi>Thomas Wilſon</hi> of Otham, <hi>Anthony Tuckney</hi> of Boſton, <hi>Thomas Coleman</hi> of Bliton, <hi>Charles Herle</hi> of Winwicke, <hi>Richard Herricke</hi> of Mancheſter, <hi>Richard Cleyton</hi> of Showell, <hi>George Gibbs</hi> of Ayleſton, Doctor <hi>Calibute Downing</hi> of Hackney, <hi>Jeremiah Boroughes</hi> of Stepney, <hi>Edmond Calamy,</hi> Batchelor in Divinity, <hi>George Walker,</hi> Batch<g ref="char:EOLhyphen"/>elor in Divinity, <hi>Ioſeph Carroll,</hi> of Lincolnes Inne, <hi>Lazarus Seaman</hi> of London, Doctor <hi>Iohn Harris,</hi> Warden of Wincheſter Colledge, <hi>George Morley</hi> of Mildenhall, <hi>Edward Reynolds</hi> of Branſton, <hi>Thomas Hill</hi> of Titchmarch, Batchelor in Divinity, Doctor <hi>Robert Saunderſon</hi> of Boothby Pannell, <hi>Iohn Foxcroft</hi> of Gotham, <hi>Iohn Iackſon,</hi> of Marſke, <hi>William Carter,</hi> of London, <hi>Thomas Thoroughgood</hi> of Maſſingham, <hi>Iohn Arrowſmith,</hi> of Lynne, <hi>Robert Harris,</hi> of Hanwell, Batchelor in Divinity, <hi>Robert Croſſe,</hi> of Lincolne Colledge Batchelor in Divinity, <hi>Iames</hi> Arch-Biſhop of Armagh, Doctor <hi>Mathias Styles</hi> of Saint George Eſ<g ref="char:EOLhyphen"/>cheap London, <hi>Samuell Gibſon,</hi> of Burley, <hi>Ieremiah Whittacre</hi> of Stretton, Doctor <hi>Edmond Stanton,</hi> of Kingſton, Doctor <hi>Daniel Feately,</hi> of Lambeth, <hi>Francis Coke</hi> of Yoxhall, <hi>Iohn Lightfoot,</hi> of Aſhley, <hi>Edward Corbet</hi> of Merton Colledge Oxon. <hi>Samuel Helderſham,</hi> of Felton, <hi>Iohn Langley</hi> of Weſtenderſley, <hi>Chriſtopher Tiſdale</hi> of Vphuſborne, <hi>Thomas Young</hi> of Stowmarket, <hi>John Phillips</hi> of Wrentham, <hi>Humphrey Chambers,</hi> of Claverton, Batchelor in Divinity, <hi>Iohn Con<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt</hi> of Lym<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngton, Batchelor in Divinity, <hi>Henry Hall</hi> of Norwich, Batchelor in Divinity, <hi>Henry Hutton, Henry Scuddir</hi> of Colingborne, <hi>Thomas Baylie</hi> of Man<g ref="char:EOLhyphen"/>ningford Bruce, <hi>Benjamin Pickering</hi> of Eaſt Hoateley, <hi>Henry Nye</hi> of Clapham, <hi>Arthur Sallaway</hi> of Seaverneſtoake, <hi>Sydr<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke Sympſon</hi> of London, <hi>Anthony Burgeſſe</hi> of Sutton Coldfield, <hi>Richard Vines</hi> of Calcott, <hi>William Greenehill</hi> of Stepney, <hi>Wil<g ref="char:EOLhyphen"/>liam Mooreton</hi> of Newcaſtle, <hi>Richard Buckley,</hi> Doctor <hi>Thomas Temple</hi> of Batterſey, <hi>Joſias Shute</hi> in Lombard ſtreet, Batchelor in Divinity, Maſter <hi>Nicholſon, Thomas Gattaker</hi> of Rotherhithe, Batchelor in Divinity, <hi>James Weldy</hi> of Sylatten, Doctor <hi>Chri<g ref="char:EOLhyphen"/>ſtopher Paſhley</hi> of Hawarden, <hi>Henry <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oze</hi> Batchelor in Divinity, <hi>William Spurſtow</hi> of Ham<gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:155978:4"/>
+               <!-- PDF PAGE 34 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:155978:4"/>
+               <!-- PDF PAGE 34 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:155978:5"/>
+               <!-- PDF PAGE 35 -->
+Oxon. <hi>Edward Ellis</hi> of Gillſfield, Batchelor in Divinity, Doctor <hi>John Hacket</hi> of Saint Andrewes Holborne, <hi>Samuel de la Place, John de la March, Matthew New comen</hi> of Dedham, <hi>William Ly<g ref="char:EOLhyphen"/>ford</hi> of Sherborne, in the County of Dorſet; Maſter <hi>Carter</hi> of Dynton, in the County of Buck. <hi>William Lance</hi> of Harrowe in Middl. <hi>Thomas Hodges</hi> of Kenſington, in the County of Middl. <hi>Andreas Perne</hi> of Wilby, in the County of Northampton; Doctor <hi>Thomas Weſtfield</hi> of Saint Bartholomewes the great, London, Biſhop of Briſtoll; Doctor <hi>Henry Hammon</hi> of Penſhurſt, in Kent; <hi>Nicholas Prophet</hi> of Marlborough, in the County of Wilts; <hi>Peter Sterry</hi> of London, <hi>John Erle</hi> of Biſhopſton, in the County of Wilts; Maſter <hi>Gibbon</hi> of Waltham, <hi>Henry Painter</hi> of Exeter, Batchelor in Divinity; Maſter <hi>Michellthwayte</hi> of Cheryburton, Doctor <hi>Wincopp</hi> of Saint Martins in the Fields, Maſter <hi>Price</hi> of Pauls Church in Covent Garden, <hi>Henry Wilkinſon</hi> Batche<g ref="char:EOLhyphen"/>lor in Divinity; Doctor <hi>Richard Oldſworth,</hi> Maſter of Emanuel Colledge in Cambridge; Maſter <hi>William Duning</hi> of Coldaſton, and ſuch other perſon and perſons as ſhall be nominated and ap<g ref="char:EOLhyphen"/>pointed by both Houſes of Parliament, or ſo many of them as ſhall not be letted by Sickneſſe, or other neceſſary Impediment, ſhall meet and aſſemble, and are hereby required and injoyned upon Summons ſigned by the Clerkes of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, left at their ſeverall reſpective dwellings, to meet and aſſemble themſelves at Weſtminſter, in the Chappell called King <hi>Henry</hi> the Sevenths Chappell, on the firſt day of Iuly, in the yeere of our Lord God one thouſand ſix hundred fortie three: And after the firſt Meeting, being at leaſt of the number of fortie, ſhall from time to time ſit and be removed from place to place, and alſo that the ſaid Aſſembly ſhall be diſſolved in ſuch manner, as by both Houſes of Parliament ſhall be directed: And the ſaid Per<g ref="char:EOLhyphen"/>ſons, or ſo many of them as ſhall be ſo aſſembled or ſit, ſhall have power and authoritie, and are hereby likewiſe injoyned from time to time, during this preſent Parliament, or untill further Order be taken by both the ſaid Houſes, to conferre and treat amongſt themſelves of ſuch Matters and Things touching and concer<g ref="char:EOLhyphen"/>ning the Liturgie, Diſcipline, and Government of the Church of
+<pb n="5" facs="tcp:155978:5"/>
+               <!-- PDF PAGE 35 -->
+England, or the vindicating and clearing of the Doctrine of the ſame from all falſe Aſperſions and Miſconſtructions, as ſhall be propoſed unto them by both or either of the ſaid Houſes of Par<g ref="char:EOLhyphen"/>liament, and no other, and to deliver their Opinions and Advices of or touching the Matters aforeſaid, as ſhall be moſt agreeable to the Word of God, to both or either of the ſaid Houſes, from time to time, in ſuch manner and ſort as by both or either of the ſaid Houſes of Parliament ſhall be required: and the ſame not to divulge by Printing, Writing, or otherwiſe, without the conſent of both or either Houſe of Parliament.</p>
+            <p>And be it further ordained by the Authoritie aforeſaid, That <hi>William Twiſt</hi> Doctor in Divinitie ſhall ſit in the Chaire as Pro<g ref="char:EOLhyphen"/>locutor of the ſaid Aſſembly: and if he happen to dye, or be letted by Sickneſſe, or other neceſſarie Impediment, then ſuch other perſon to be appointed in his place, as ſhall be agreed on by both the ſaid Houſes of Parliament. And in caſe any difference of Opinion ſhall happen amongſt the ſaid perſons ſo aſſembled, tou<g ref="char:EOLhyphen"/>ching any the Matters that ſhall be propoſed to them as aforeſaid, that then they ſhall repreſent the ſame, together with the Reaſons thereof, to both or either of the ſaid Houſes reſpectively, to the end ſuch further direction may be given therein, as ſhall be requiſite in that behalfe.</p>
+            <p>And be it further ordained by the Authoritie aforeſaid, That for the Charges and Expences of the ſaid Divines, and every of them, in attending the ſaid Service, there ſhall be allowed unto every of them that ſhall ſo attend, during the time of their ſaid Attendance, and for ten dayes before and ten dayes after, the ſumme of foure ſhillings for every day, at the Charges of the Common-wealth, at ſuch time, and in ſuch manner, as by both Houſes of Parliament ſhall be appointed.</p>
+            <p>And be it further Ordained, That all and every the ſaid Di<g ref="char:EOLhyphen"/>vines ſo as aforeſaid, required and injoyned to meet and Aſſem<g ref="char:EOLhyphen"/>ble, ſhall be freed and acquitted of and from every Offence, For<g ref="char:EOLhyphen"/>feiture, Penalty, Loſſe, or Damage, which ſhall or may ariſe or grow by reaſon of any Non-Reſidence, or abſence of them, or any of them, from his or their, or any of their Church, Churches,
+<pb n="8" facs="tcp:155978:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 36 -->
+or Cures, for or in reſpect of their ſaid Attendance upon the ſaid Service, any Law or Statute of Non-reſidence, or other Law or Statute, enjoyning their Attendance upon their re<g ref="char:EOLhyphen"/>ſpective Miniſteries or Charges to the contrary thereof not<g ref="char:EOLhyphen"/>withſtanding.</p>
+            <p>And if any of the Perſons before named, ſhall happen to dye be<g ref="char:EOLhyphen"/>fore the ſaid Aſſembly ſhall be diſſolved by Order of both Houſes of Parliament, then ſuch other perſon or perſons ſhall be nomina<g ref="char:EOLhyphen"/>ted and placed in the Roome and ſtead of ſuch perſon and perſons ſo dying, as by both the ſaid Houſes ſhall be thought fit and agreed upon, and every ſuch perſon or perſons ſo to be named, ſhal have the like power and Authority, freedome, and acquitall, to all intents and purpoſes, and alſo all ſuch wages and allowances for the ſaid ſervice, during the time of his or their Attendance, as to any other of the ſaid perſons in this Ordinance is by this Ordinance limit<g ref="char:EOLhyphen"/>ed and appoynted.</p>
+            <p>Provided alwayes, That this Ordinance, or any thing therein conteyned, ſhall not give unto the perſons aforeſaid, or any of them, nor ſhall they in this Aſſembly aſſume to exerciſe any Iuriſdiction, Power, or Authority Eccleſiaſticall whatſoever, or any other power, then is herein particularly expreſſed.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:155978:6"/>
+            <!-- PDF PAGE 36 -->
+         </div>
+      </body>
+   </text>
+</TEI>
